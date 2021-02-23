@@ -101,7 +101,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/eu1.kuracloud.com\/i\/401bdcba\/student\/courses\/385\/published\/1729\/lesson\/open\/page\/1"
+                 "value":"https:\/\/www.kuracloud.com"
                 }, 
                 {
                  "name":"openWebsiteTrigger",

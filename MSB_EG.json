@@ -408,7 +408,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ersetzenEG#startvonTeleporter"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/ruedesheimer#startvonTeleporter"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -426,7 +426,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ersetzen1OG#startHaupt"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/ruedesheimer1OG#startHaupt"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -444,7 +444,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ersetzen1OG#startNebenEG"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/ruedesheimer1OG#startNebenEG"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ersetzen1OG#startNebenOG2"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/ruedesheimer1OG#startNebenOG2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -97,7 +97,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ersetzen1OG#startHinten"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/ruedesheimer1OG#startHinten"
                 }],
          "type":"tilelayer",
          "visible":true,

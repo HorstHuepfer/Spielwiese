@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ersetzen1OG#Teleport9"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/ruedesheimer1OG#Teleport9"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ersetzen1OG#Teleport8"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/ruedesheimer1OG#Teleport8"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,7 +85,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ersetzen1OG#Teleport7"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/ruedesheimer1OG#Teleport7"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,7 +103,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ersetzen1OG#Teleport6"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/ruedesheimer1OG#Teleport6"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -121,7 +121,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ersetzen1OG#Teleport5"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/ruedesheimer1OG#Teleport5"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -139,7 +139,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ersetzen1OG#Teleport4"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/ruedesheimer1OG#Teleport4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -157,7 +157,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ersetzen1OG#Teleport3"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/ruedesheimer1OG#Teleport3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -175,7 +175,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ersetzen1OG#Teleport2"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/ruedesheimer1OG#Teleport2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -193,7 +193,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ersetzen1OG#Teleport1"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/ruedesheimer1OG#Teleport1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -211,7 +211,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ersetzenEG#startEGTreppeHaupt"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/ruedesheimer#startEGTreppeHaupt"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -229,7 +229,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ersetzen2OG#startNeben"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/ruedesheimer2OG#startNeben"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -247,7 +247,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ersetzenEG#startEGTreppeMitte"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/ruedesheimer#startEGTreppeMitte"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -265,7 +265,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ersetzen2OG#startHinten"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/ruedesheimer2OG#startHinten"
                 }],
          "type":"tilelayer",
          "visible":true,
